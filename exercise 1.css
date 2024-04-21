@@ -1,0 +1,33 @@
+
+
+            .menu{
+                width: 20%;
+                float: left;
+                text-align: center;
+                
+                
+            }
+
+            .menu a{
+                background-color: #e5e5e5;
+                margin-top: 7px;
+                padding: 8px;
+                width: 100%;
+                display: block;
+            }
+
+            .main {
+                width: 60%;
+                float:left;
+                padding:  0 20px;
+            }
+
+            .right{
+                background-color: #e5e5e5;
+                float: left;
+                width: 20%;
+                padding: 13px;
+                margin-top: 7px;
+                text-align: center;
+            }
+
